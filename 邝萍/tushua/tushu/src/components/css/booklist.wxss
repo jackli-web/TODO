@@ -1,0 +1,139 @@
+.topbox {
+  height: 24.2667vw;
+  background-color: white;
+  position: fixed;
+  top: 0vw;
+  z-index: 10;
+}
+.sj {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  height: 11.7333vw;
+}
+.sj .sjleft {
+  width: 14.4vw;
+  font-size: 4vw;
+  margin-left: 8.5333vw;
+  margin-top: 3.2vw;
+  margin-bottom: 5.3333vw;
+}
+.sj .sjright {
+  height: 2.9333vw;
+  margin-right: 4.8vw;
+  margin-top: 4.2667vw;
+  margin-bottom: 4.8vw;
+}
+.sj .sjright img {
+  width: 4.5333vw;
+  height: 2.9333vw;
+}
+.bltop {
+  width: 100vw;
+  height: 12.5333vw;
+  background-color: white;
+  filter: drop-shadow(0px 2px 3.5px rgba(0, 0, 0, 0.03));
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bltop .booktopleft {
+  margin-left: 6.4vw;
+  margin-bottom: 4.5333vw;
+  width: 2.9333vw;
+  height: 5.3333vw;
+}
+.bltop .booktoptext {
+  font-size: 4.2667vw;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Open Sans";
+  margin-bottom: 5.6vw;
+}
+.bltop .booktopright {
+  margin-right: 6.4vw;
+  margin-bottom: 5.0667vw;
+  width: 5.3333vw;
+  height: 4.2667vw;
+}
+.blcenter {
+  width: 100vw;
+  height: 158.4vw;
+  filter: drop-shadow(0px 2px 3.5px rgba(0, 0, 0, 0.03));
+  background-color: #ebecee;
+  padding-top: 2.9333vw;
+  padding-bottom: 9.0667vw;
+  margin-bottom: 22.1333vw;
+  margin-top: 24.3333vw;
+}
+.blcenter .blcenterbox {
+  background-color: white;
+  margin-right: 2.6667vw;
+}
+.blcenter .blcenterbox .bookcentertop {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blcenter .blcenterbox .bookcentertop .bookctleft {
+  height: 6.4vw;
+  line-height: 6.4vw;
+  margin-left: 6.6667vw;
+  margin-top: 4.5333vw;
+  font-size: 3.7333vw;
+  color: #000000;
+  font-weight: bold;
+}
+.blcenter .blcenterbox .bookcentertop .bookctright {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 24.8vw;
+  height: 6.4vw;
+  border-radius: 3px;
+  background-color: #ffffff;
+  border: 1px solid #b1b1b1;
+  margin-top: 2.6667vw;
+  margin-right: 6.6667vw;
+}
+.blcenter .blcenterbox .bookcentertop .bookctright .bookctrimg {
+  width: 3.2vw;
+  height: 3.2vw;
+}
+.blcenter .blcenterbox .bookcentertop .bookctright .bookctrtext {
+  font-size: 3.7333vw;
+  color: #b1b1b1;
+  font-weight: bold;
+}
+.blcenter .blcenterbox .bookcc {
+  margin-top: 6.4vw;
+}
+.blcenter .blcenterbox .bookcc .bookimg .bimg {
+  width: 26.6667vw;
+  height: 37.6vw;
+  margin-left: 14.6667vw;
+  margin-right: 2.6667vw;
+  margin-bottom: 10.1333vw;
+}
+.tarbar {
+  position: fixed;
+  bottom: 0vw;
+  width: 100vw;
+  height: 22.1333vw;
+  background-color: white;
+  border-top: 1px solid #aaa;
+}
+.tarbar .bai {
+  padding: 3.7333vw 10.6667vw 3.4667vw 10.6667vw;
+  display: flex;
+  justify-content: space-between;
+}
+.tarbar .bai .item {
+  font-size: 5.3333vw;
+}
+.tarbar .hei {
+  height: 9.0667vw;
+  width: 100vw;
+  background-color: black;
+}
