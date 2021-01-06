@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18f7badf-326b-4e1d-b9fb-4967c0a64695" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TODO1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/dev.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon feather-filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon feather-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon ionic-ios-arrow-back (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon ionic-ios-arrow-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon material-account-box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Icon material-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Path 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/Path 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/assets/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/components/book.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/components/products.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/components/shcar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/components/top_bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘海涛/shopcar/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/back_end/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/back_end/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/arrow-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/assets/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/components/booklist.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/components/cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/components/payment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/components/products.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/components/book.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/components/bookDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/components/shoppingcart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/st_demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刘菜菜/zuoye/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/back_end/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/back_end/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/css/swiper/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/css/swiper/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/img/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/img/小于.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/assets/img/购物车.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/GoodsCart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/GoodsDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/GoodsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/cartitem/CartConent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/cartitem/CartFoot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/detailtem/DetailConent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/detailtem/DetailFoot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/goodsitem/GoodsConent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/goodsitem/GoodsFoot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/components/goodsitem/GoodsTop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大熊哥/supermake/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/Icon feather-filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/Icon ionic-ios-arrow-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/Path 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/Path 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/Path 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/serch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/img/xin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/components/car.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/components/xq.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱崇俊/demo1/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/css/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/Path 1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/Path 2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/bgc_one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/facebook@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/assets/image/search@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/User/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/common/tab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/common/top.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/list/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/login/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/payment/payment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/components/product/product.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/梁菁/cart/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/殷志敏/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/罗老师/do not  readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon feather-filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon feather-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon ionic-ios-arrow-back (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon ionic-ios-arrow-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon material-account-box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Icon material-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Path 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/Path 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/books.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/other.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/payment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/paymentbook.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/products.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/components/son.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/胡晓冬/vuex_demo/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/Path 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/Path 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/Path 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/Path 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/xia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/xin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/xin2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/zhuye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/assets/zuo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/components/BookPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/components/PlayOrder.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/components/foot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/components/head.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蔡俊威/zuoye/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/loud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/love.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/assets/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/components/payment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/components/products.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/components/son.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/components/top.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/薛源/bookstore/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TODO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TODO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘海涛/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/王燕/hahha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘菜菜/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大熊哥/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/大熊哥/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应该可以/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/朱崇俊/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/梁菁/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/胡晓冬/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/薛源/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/陈威龙/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/薛源/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="209" />
+    <option name="y" value="47" />
+    <option name="width" value="1145" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/xiangmu/vue案例/Git-2.29.2.3-64-bit.exe" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a43cd0-cb0c-403a-9708-f162ef0b8a67" name="Default" comment="" />
+      <created>1609837485396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609837485396</updated>
+      <workItem from="1609837487666" duration="987000" />
+      <workItem from="1609844284628" duration="901000" />
+      <workItem from="1609901080565" duration="735000" />
+    </task>
+    <task id="LOCAL-00001" summary="hallo world">
+      <created>1609837786718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609837786718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2867000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="196" y="68" width="1145" height="820" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23486902" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004517" side_tool="true" visible="true" weight="0.2536657" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49954832" visible="true" weight="0.2536657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959871" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hallo world" />
+    <MESSAGE value="bookstore" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookstore" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
+  </component>
+</project>
