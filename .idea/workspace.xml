@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a43cd0-cb0c-403a-9708-f162ef0b8a67" name="Default" comment="bookstore" />
+    <list default="true" id="a5a43cd0-cb0c-403a-9708-f162ef0b8a67" name="Default" comment="bookstore">
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/components/son.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/components/xiangqing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/陈威龙/vue_zuoye/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/book_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/filter-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/filter-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/find-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/home-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/img8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/like-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/my-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/shopcar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/assets/succ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/components/book_list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/components/book_part.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/components/order_form.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/components/shop_cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/颜建华/book_mall/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大熊哥/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/大熊哥/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,10 +123,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,7 +194,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3200000" />
+    <option name="totallyTimeSpent" value="3286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -124,23 +202,31 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50390625" side_tool="true" visible="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50390625" side_tool="true" visible="true" weight="0.32739726" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49609375" visible="true" weight="0.32739726" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49609375" visible="true" weight="0.32739726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959871" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49609375" visible="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50390625" side_tool="true" visible="true" weight="0.32739726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +259,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="bookstore" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/彭茜/index.html" />
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
+    <entry file="file://$PROJECT_DIR$/薛源/index.html" />
     <entry file="file://$PROJECT_DIR$/彭茜/index.html" />
     <entry file="file://$PROJECT_DIR$/薛源/index.html" />
     <entry file="file://$PROJECT_DIR$/薛源/index.html" />
