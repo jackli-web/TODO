@@ -1,0 +1,30 @@
+<template>
+  <div id="app">
+    <router-view />
+  </div>
+</template>
+
+<script>
+export default {
+  name: "App",
+};
+</script>
+
+<style>
+html,
+body,
+#app {
+  width: 100vw;
+  height: 216.5333vw;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f6f8;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+</style>
