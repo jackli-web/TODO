@@ -72,7 +72,7 @@
     data() {
       return {
         name: "",
-        payall:0,
+        // payall:0,
         // payall1:0,
         // payall2:0,
         count:1,
@@ -92,17 +92,18 @@
         // }else{
         //   this.payall2=this.storeorders[str].price*this.storeorders[str].count
         // }
-        if(str===str){
-          this.payall+=this.storeorders[str].price*this.storeorders[str].count
-        }
+        // if(str===str){
+        //  var t1= this.storeorders[str].price*this.storeorders[str].count
+        //   this.payall+=t1
+        // }
         // this.payall=this.payall1+this.payall2
       },
       des(str) {
         this.storeorders[str].count--;
         console.log(str)
-        if(str===str){
-          this.payall+=this.storeorders[str].price*this.storeorders[str].count
-        }
+        //   if(str===str){
+        //   this.payall-=this.storeorders[str].price*this.storeorders[str].count
+        // }
       },
       ifbuy() {
         Dialog.alert({
@@ -131,9 +132,14 @@
       storeorders: function () {
         return this.$store.state.orders;
       },
+      payall:function(){
+        return this.$store.getters.whole
+      }
 
     },
+
   };
+
 </script>
 <style scoped>
   * {
@@ -238,7 +244,7 @@
   }
   .title {
     width: 47.4667vw;
-    height: 11.2vw;
+    /* height: 11.2vw; */
     text-align: left;
     font-size: 3.2vw;
     color: #000000;
@@ -246,10 +252,18 @@
     /* margin-left: 4.8vw; */
   }
   .tdetail {
+    width: 47.4667vw;
+    height: 13.2vw;
+    text-align: left;
     font-size: 3.2vw;
     /* margin-left: 4.8vw; */
     color: #000000;
     font-family: "Open Sans";
+    overflow: hidden; /*必须结合的属性,当内容溢出元素框时发生的事情*/
+    text-overflow: ellipsis; /*可以用来多行文本的情况下，用省略号“…”隐藏超出范围的文本 。*/
+    display: -webkit-box; /*必须结合的属性 ，将对象作为弹性伸缩盒子模型显示 。*/
+    -webkit-line-clamp: 3; /*用来限制在一个块元素显示的文本的行数。*/
+    -webkit-box-orient: vertical;
   }
   .bopay {
     display: flex;

@@ -4,16 +4,21 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 
 const store = new Vuex.Store({
+  // state里面放全局参数
   state: {
     // count: 0
     orders:[],
-    arr:[]
+    arr:[],
+    receive:{},
   },
   mutations: {
+//这里是set方法
     // increment (state) {
     //   state.count++
     // }
-
+    self(state,obj){
+      state.receive=obj;
+    },
     addtocart:function(state,obj){
       // state.orders.push(obj)
       if (state.orders.length === 0) {
@@ -41,7 +46,23 @@ const store = new Vuex.Store({
           state.orders[bookName].count+=obj.count
         }
       }
+    },
+
+  },
+  // 全局
+  getters:{
+//这里是get方法
+    whole(state){
+      var total=0;
+      for(var i=0;i<state.orders.length;i++){
+        let all=state.orders[i].count*state.orders[i].price;
+        total+=all;
+      }
+      return total
+
     }
+
+
   }
 })
 export default store
