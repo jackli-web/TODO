@@ -1,0 +1,2231 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1609902042797)
++++ .idea/workspace.xml	(date 1609902042797)
+@@ -0,0 +1,122 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="0dab59d6-9ed9-445f-9bde-b86fce0e54b4" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/.babelrc" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/.editorconfig" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/.postcssrc.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/README.md" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/build.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/check-versions.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/logo.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/utils.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/vue-loader.conf.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/webpack.base.conf.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/webpack.dev.conf.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/build/webpack.prod.conf.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/config/dev.env.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/config/index.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/config/prod.env.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/package.json" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/App.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Icon feather-filter.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Icon ionic-ios-arrow-back.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Icon material-account-box.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Icon material-home.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Path 1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/Path 5.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/feather-heart.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/ionic-ios-arrow-back.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/assets/logo.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/axios_instance.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/components/HelloWorld.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/components/book.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/components/home.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/components/payment.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/components/products.vue" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/main.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/router/index.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/src/store/index.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/陈伟/demo6/static/.gitkeep" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/TODO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TODO.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/陈伟/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/陈伟/demo6/index.html" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++  </component>
++  <component name="ProjectId" id="1mg3EZcT0jpw8PhCMde8LuGbqzJ" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/陈伟" />
++  </component>
++  <component name="SvnConfiguration">
++    <configuration />
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="0dab59d6-9ed9-445f-9bde-b86fce0e54b4" name="Default Changelist" comment="" />
++      <created>1609901295250</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1609901295250</updated>
++      <workItem from="1609901296864" duration="745000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="2" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="490" y="199" key="git4idea.merge.GitPullDialog" timestamp="1609902003920">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="490" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609902003920" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"JavaScriptSettings\">\r\n    <option name=\"languageLevel\" value=\"ES6\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision e58ef63ec08ee5e3fd33c3b30002b15f88d021e7)
++++ .idea/misc.xml	(date 1609901377851)
+@@ -3,7 +3,4 @@
+   <component name="JavaScriptSettings">
+     <option name="languageLevel" value="ES6" />
+   </component>
+-  <component name="ProjectRootManager">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n<<<<<<< Updated upstream\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/TODO.iml\" filepath=\"$PROJECT_DIR$/.idea/TODO.iml\" />\r\n=======\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/TODO2.iml\" filepath=\"$PROJECT_DIR$/.idea/TODO2.iml\" />\r\n>>>>>>> Stashed changes\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision e58ef63ec08ee5e3fd33c3b30002b15f88d021e7)
++++ .idea/modules.xml	(date 1609901377884)
+@@ -2,11 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-<<<<<<< Updated upstream
+       <module fileurl="file://$PROJECT_DIR$/.idea/TODO.iml" filepath="$PROJECT_DIR$/.idea/TODO.iml" />
+-=======
+-      <module fileurl="file://$PROJECT_DIR$/.idea/TODO2.iml" filepath="$PROJECT_DIR$/.idea/TODO2.iml" />
+->>>>>>> Stashed changes
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/TODO.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/TODO.iml	(revision e58ef63ec08ee5e3fd33c3b30002b15f88d021e7)
++++ .idea/TODO.iml	(date 1609901377784)
+@@ -1,7 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
++<module type="WEB_MODULE" version="4">
+   <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+Index: 陈伟/demo6/build/build.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/build.js	(date 1609656284780)
++++ 陈伟/demo6/build/build.js	(date 1609656284780)
+@@ -0,0 +1,41 @@
++'use strict'
++require('./check-versions')()
++
++process.env.NODE_ENV = 'production'
++
++const ora = require('ora')
++const rm = require('rimraf')
++const path = require('path')
++const chalk = require('chalk')
++const webpack = require('webpack')
++const config = require('../config')
++const webpackConfig = require('./webpack.prod.conf')
++
++const spinner = ora('building for production...')
++spinner.start()
++
++rm(path.join(config.build.assetsRoot, config.build.assetsSubDirectory), err => {
++  if (err) throw err
++  webpack(webpackConfig, (err, stats) => {
++    spinner.stop()
++    if (err) throw err
++    process.stdout.write(stats.toString({
++      colors: true,
++      modules: false,
++      children: false, // If you are using ts-loader, setting this to true will make TypeScript errors show up during build.
++      chunks: false,
++      chunkModules: false
++    }) + '\n\n')
++
++    if (stats.hasErrors()) {
++      console.log(chalk.red('  Build failed with errors.\n'))
++      process.exit(1)
++    }
++
++    console.log(chalk.cyan('  Build complete.\n'))
++    console.log(chalk.yellow(
++      '  Tip: built files are meant to be served over an HTTP server.\n' +
++      '  Opening index.html over file:// won\'t work.\n'
++    ))
++  })
++})
+Index: 陈伟/demo6/build/utils.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/utils.js	(date 1609656284782)
++++ 陈伟/demo6/build/utils.js	(date 1609656284782)
+@@ -0,0 +1,101 @@
++'use strict'
++const path = require('path')
++const config = require('../config')
++const ExtractTextPlugin = require('extract-text-webpack-plugin')
++const packageConfig = require('../package.json')
++
++exports.assetsPath = function (_path) {
++  const assetsSubDirectory = process.env.NODE_ENV === 'production'
++    ? config.build.assetsSubDirectory
++    : config.dev.assetsSubDirectory
++
++  return path.posix.join(assetsSubDirectory, _path)
++}
++
++exports.cssLoaders = function (options) {
++  options = options || {}
++
++  const cssLoader = {
++    loader: 'css-loader',
++    options: {
++      sourceMap: options.sourceMap
++    }
++  }
++
++  const postcssLoader = {
++    loader: 'postcss-loader',
++    options: {
++      sourceMap: options.sourceMap
++    }
++  }
++
++  // generate loader string to be used with extract text plugin
++  function generateLoaders (loader, loaderOptions) {
++    const loaders = options.usePostCSS ? [cssLoader, postcssLoader] : [cssLoader]
++
++    if (loader) {
++      loaders.push({
++        loader: loader + '-loader',
++        options: Object.assign({}, loaderOptions, {
++          sourceMap: options.sourceMap
++        })
++      })
++    }
++
++    // Extract CSS when that option is specified
++    // (which is the case during production build)
++    if (options.extract) {
++      return ExtractTextPlugin.extract({
++        use: loaders,
++        fallback: 'vue-style-loader'
++      })
++    } else {
++      return ['vue-style-loader'].concat(loaders)
++    }
++  }
++
++  // https://vue-loader.vuejs.org/en/configurations/extract-css.html
++  return {
++    css: generateLoaders(),
++    postcss: generateLoaders(),
++    less: generateLoaders('less'),
++    sass: generateLoaders('sass', { indentedSyntax: true }),
++    scss: generateLoaders('sass'),
++    stylus: generateLoaders('stylus'),
++    styl: generateLoaders('stylus')
++  }
++}
++
++// Generate loaders for standalone style files (outside of .vue)
++exports.styleLoaders = function (options) {
++  const output = []
++  const loaders = exports.cssLoaders(options)
++
++  for (const extension in loaders) {
++    const loader = loaders[extension]
++    output.push({
++      test: new RegExp('\\.' + extension + '$'),
++      use: loader
++    })
++  }
++
++  return output
++}
++
++exports.createNotifierCallback = () => {
++  const notifier = require('node-notifier')
++
++  return (severity, errors) => {
++    if (severity !== 'error') return
++
++    const error = errors[0]
++    const filename = error.file && error.file.split('!').pop()
++
++    notifier.notify({
++      title: packageConfig.name,
++      message: severity + ': ' + error.name,
++      subtitle: filename || '',
++      icon: path.join(__dirname, 'logo.png')
++    })
++  }
++}
+Index: 陈伟/demo6/build/check-versions.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/check-versions.js	(date 1609656284781)
++++ 陈伟/demo6/build/check-versions.js	(date 1609656284781)
+@@ -0,0 +1,54 @@
++'use strict'
++const chalk = require('chalk')
++const semver = require('semver')
++const packageConfig = require('../package.json')
++const shell = require('shelljs')
++
++function exec (cmd) {
++  return require('child_process').execSync(cmd).toString().trim()
++}
++
++const versionRequirements = [
++  {
++    name: 'node',
++    currentVersion: semver.clean(process.version),
++    versionRequirement: packageConfig.engines.node
++  }
++]
++
++if (shell.which('npm')) {
++  versionRequirements.push({
++    name: 'npm',
++    currentVersion: exec('npm --version'),
++    versionRequirement: packageConfig.engines.npm
++  })
++}
++
++module.exports = function () {
++  const warnings = []
++
++  for (let i = 0; i < versionRequirements.length; i++) {
++    const mod = versionRequirements[i]
++
++    if (!semver.satisfies(mod.currentVersion, mod.versionRequirement)) {
++      warnings.push(mod.name + ': ' +
++        chalk.red(mod.currentVersion) + ' should be ' +
++        chalk.green(mod.versionRequirement)
++      )
++    }
++  }
++
++  if (warnings.length) {
++    console.log('')
++    console.log(chalk.yellow('To use this template, you must update following to modules:'))
++    console.log()
++
++    for (let i = 0; i < warnings.length; i++) {
++      const warning = warnings[i]
++      console.log('  ' + warning)
++    }
++
++    console.log()
++    process.exit(1)
++  }
++}
+Index: 陈伟/demo6/build/vue-loader.conf.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/vue-loader.conf.js	(date 1609656284783)
++++ 陈伟/demo6/build/vue-loader.conf.js	(date 1609656284783)
+@@ -0,0 +1,22 @@
++'use strict'
++const utils = require('./utils')
++const config = require('../config')
++const isProduction = process.env.NODE_ENV === 'production'
++const sourceMapEnabled = isProduction
++  ? config.build.productionSourceMap
++  : config.dev.cssSourceMap
++
++module.exports = {
++  loaders: utils.cssLoaders({
++    sourceMap: sourceMapEnabled,
++    extract: isProduction
++  }),
++  cssSourceMap: sourceMapEnabled,
++  cacheBusting: config.dev.cacheBusting,
++  transformToRequire: {
++    video: ['src', 'poster'],
++    source: 'src',
++    img: 'src',
++    image: 'xlink:href'
++  }
++}
+Index: 陈伟/demo6/build/webpack.dev.conf.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/webpack.dev.conf.js	(date 1609656284782)
++++ 陈伟/demo6/build/webpack.dev.conf.js	(date 1609656284782)
+@@ -0,0 +1,95 @@
++'use strict'
++const utils = require('./utils')
++const webpack = require('webpack')
++const config = require('../config')
++const merge = require('webpack-merge')
++const path = require('path')
++const baseWebpackConfig = require('./webpack.base.conf')
++const CopyWebpackPlugin = require('copy-webpack-plugin')
++const HtmlWebpackPlugin = require('html-webpack-plugin')
++const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
++const portfinder = require('portfinder')
++
++const HOST = process.env.HOST
++const PORT = process.env.PORT && Number(process.env.PORT)
++
++const devWebpackConfig = merge(baseWebpackConfig, {
++  module: {
++    rules: utils.styleLoaders({ sourceMap: config.dev.cssSourceMap, usePostCSS: true })
++  },
++  // cheap-module-eval-source-map is faster for development
++  devtool: config.dev.devtool,
++
++  // these devServer options should be customized in /config/index.js
++  devServer: {
++    clientLogLevel: 'warning',
++    historyApiFallback: {
++      rewrites: [
++        { from: /.*/, to: path.posix.join(config.dev.assetsPublicPath, 'index.html') },
++      ],
++    },
++    hot: true,
++    contentBase: false, // since we use CopyWebpackPlugin.
++    compress: true,
++    host: HOST || config.dev.host,
++    port: PORT || config.dev.port,
++    open: config.dev.autoOpenBrowser,
++    overlay: config.dev.errorOverlay
++      ? { warnings: false, errors: true }
++      : false,
++    publicPath: config.dev.assetsPublicPath,
++    proxy: config.dev.proxyTable,
++    quiet: true, // necessary for FriendlyErrorsPlugin
++    watchOptions: {
++      poll: config.dev.poll,
++    }
++  },
++  plugins: [
++    new webpack.DefinePlugin({
++      'process.env': require('../config/dev.env')
++    }),
++    new webpack.HotModuleReplacementPlugin(),
++    new webpack.NamedModulesPlugin(), // HMR shows correct file names in console on update.
++    new webpack.NoEmitOnErrorsPlugin(),
++    // https://github.com/ampedandwired/html-webpack-plugin
++    new HtmlWebpackPlugin({
++      filename: 'index.html',
++      template: 'index.html',
++      inject: true
++    }),
++    // copy custom static assets
++    new CopyWebpackPlugin([
++      {
++        from: path.resolve(__dirname, '../static'),
++        to: config.dev.assetsSubDirectory,
++        ignore: ['.*']
++      }
++    ])
++  ]
++})
++
++module.exports = new Promise((resolve, reject) => {
++  portfinder.basePort = process.env.PORT || config.dev.port
++  portfinder.getPort((err, port) => {
++    if (err) {
++      reject(err)
++    } else {
++      // publish the new Port, necessary for e2e tests
++      process.env.PORT = port
++      // add port to devServer config
++      devWebpackConfig.devServer.port = port
++
++      // Add FriendlyErrorsPlugin
++      devWebpackConfig.plugins.push(new FriendlyErrorsPlugin({
++        compilationSuccessInfo: {
++          messages: [`Your application is running here: http://${devWebpackConfig.devServer.host}:${port}`],
++        },
++        onErrors: config.dev.notifyOnErrors
++        ? utils.createNotifierCallback()
++        : undefined
++      }))
++
++      resolve(devWebpackConfig)
++    }
++  })
++})
+Index: 陈伟/demo6/build/webpack.base.conf.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/webpack.base.conf.js	(date 1609656284782)
++++ 陈伟/demo6/build/webpack.base.conf.js	(date 1609656284782)
+@@ -0,0 +1,82 @@
++'use strict'
++const path = require('path')
++const utils = require('./utils')
++const config = require('../config')
++const vueLoaderConfig = require('./vue-loader.conf')
++
++function resolve (dir) {
++  return path.join(__dirname, '..', dir)
++}
++
++
++
++module.exports = {
++  context: path.resolve(__dirname, '../'),
++  entry: {
++    app: './src/main.js'
++  },
++  output: {
++    path: config.build.assetsRoot,
++    filename: '[name].js',
++    publicPath: process.env.NODE_ENV === 'production'
++      ? config.build.assetsPublicPath
++      : config.dev.assetsPublicPath
++  },
++  resolve: {
++    extensions: ['.js', '.vue', '.json'],
++    alias: {
++      'vue$': 'vue/dist/vue.esm.js',
++      '@': resolve('src'),
++    }
++  },
++  module: {
++    rules: [
++      {
++        test: /\.vue$/,
++        loader: 'vue-loader',
++        options: vueLoaderConfig
++      },
++      {
++        test: /\.js$/,
++        loader: 'babel-loader',
++        include: [resolve('src'), resolve('test'), resolve('node_modules/webpack-dev-server/client')]
++      },
++      {
++        test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
++        loader: 'url-loader',
++        options: {
++          limit: 10000,
++          name: utils.assetsPath('img/[name].[hash:7].[ext]')
++        }
++      },
++      {
++        test: /\.(mp4|webm|ogg|mp3|wav|flac|aac)(\?.*)?$/,
++        loader: 'url-loader',
++        options: {
++          limit: 10000,
++          name: utils.assetsPath('media/[name].[hash:7].[ext]')
++        }
++      },
++      {
++        test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
++        loader: 'url-loader',
++        options: {
++          limit: 10000,
++          name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
++        }
++      }
++    ]
++  },
++  node: {
++    // prevent webpack from injecting useless setImmediate polyfill because Vue
++    // source contains it (although only uses it if it's native).
++    setImmediate: false,
++    // prevent webpack from injecting mocks to Node native modules
++    // that does not make sense for the client
++    dgram: 'empty',
++    fs: 'empty',
++    net: 'empty',
++    tls: 'empty',
++    child_process: 'empty'
++  }
++}
+Index: 陈伟/demo6/build/webpack.prod.conf.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/build/webpack.prod.conf.js	(date 1609656284784)
++++ 陈伟/demo6/build/webpack.prod.conf.js	(date 1609656284784)
+@@ -0,0 +1,145 @@
++'use strict'
++const path = require('path')
++const utils = require('./utils')
++const webpack = require('webpack')
++const config = require('../config')
++const merge = require('webpack-merge')
++const baseWebpackConfig = require('./webpack.base.conf')
++const CopyWebpackPlugin = require('copy-webpack-plugin')
++const HtmlWebpackPlugin = require('html-webpack-plugin')
++const ExtractTextPlugin = require('extract-text-webpack-plugin')
++const OptimizeCSSPlugin = require('optimize-css-assets-webpack-plugin')
++const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
++
++const env = require('../config/prod.env')
++
++const webpackConfig = merge(baseWebpackConfig, {
++  module: {
++    rules: utils.styleLoaders({
++      sourceMap: config.build.productionSourceMap,
++      extract: true,
++      usePostCSS: true
++    })
++  },
++  devtool: config.build.productionSourceMap ? config.build.devtool : false,
++  output: {
++    path: config.build.assetsRoot,
++    filename: utils.assetsPath('js/[name].[chunkhash].js'),
++    chunkFilename: utils.assetsPath('js/[id].[chunkhash].js')
++  },
++  plugins: [
++    // http://vuejs.github.io/vue-loader/en/workflow/production.html
++    new webpack.DefinePlugin({
++      'process.env': env
++    }),
++    new UglifyJsPlugin({
++      uglifyOptions: {
++        compress: {
++          warnings: false
++        }
++      },
++      sourceMap: config.build.productionSourceMap,
++      parallel: true
++    }),
++    // extract css into its own file
++    new ExtractTextPlugin({
++      filename: utils.assetsPath('css/[name].[contenthash].css'),
++      // Setting the following option to `false` will not extract CSS from codesplit chunks.
++      // Their CSS will instead be inserted dynamically with style-loader when the codesplit chunk has been loaded by webpack.
++      // It's currently set to `true` because we are seeing that sourcemaps are included in the codesplit bundle as well when it's `false`, 
++      // increasing file size: https://github.com/vuejs-templates/webpack/issues/1110
++      allChunks: true,
++    }),
++    // Compress extracted CSS. We are using this plugin so that possible
++    // duplicated CSS from different components can be deduped.
++    new OptimizeCSSPlugin({
++      cssProcessorOptions: config.build.productionSourceMap
++        ? { safe: true, map: { inline: false } }
++        : { safe: true }
++    }),
++    // generate dist index.html with correct asset hash for caching.
++    // you can customize output by editing /index.html
++    // see https://github.com/ampedandwired/html-webpack-plugin
++    new HtmlWebpackPlugin({
++      filename: config.build.index,
++      template: 'index.html',
++      inject: true,
++      minify: {
++        removeComments: true,
++        collapseWhitespace: true,
++        removeAttributeQuotes: true
++        // more options:
++        // https://github.com/kangax/html-minifier#options-quick-reference
++      },
++      // necessary to consistently work with multiple chunks via CommonsChunkPlugin
++      chunksSortMode: 'dependency'
++    }),
++    // keep module.id stable when vendor modules does not change
++    new webpack.HashedModuleIdsPlugin(),
++    // enable scope hoisting
++    new webpack.optimize.ModuleConcatenationPlugin(),
++    // split vendor js into its own file
++    new webpack.optimize.CommonsChunkPlugin({
++      name: 'vendor',
++      minChunks (module) {
++        // any required modules inside node_modules are extracted to vendor
++        return (
++          module.resource &&
++          /\.js$/.test(module.resource) &&
++          module.resource.indexOf(
++            path.join(__dirname, '../node_modules')
++          ) === 0
++        )
++      }
++    }),
++    // extract webpack runtime and module manifest to its own file in order to
++    // prevent vendor hash from being updated whenever app bundle is updated
++    new webpack.optimize.CommonsChunkPlugin({
++      name: 'manifest',
++      minChunks: Infinity
++    }),
++    // This instance extracts shared chunks from code splitted chunks and bundles them
++    // in a separate chunk, similar to the vendor chunk
++    // see: https://webpack.js.org/plugins/commons-chunk-plugin/#extra-async-commons-chunk
++    new webpack.optimize.CommonsChunkPlugin({
++      name: 'app',
++      async: 'vendor-async',
++      children: true,
++      minChunks: 3
++    }),
++
++    // copy custom static assets
++    new CopyWebpackPlugin([
++      {
++        from: path.resolve(__dirname, '../static'),
++        to: config.build.assetsSubDirectory,
++        ignore: ['.*']
++      }
++    ])
++  ]
++})
++
++if (config.build.productionGzip) {
++  const CompressionWebpackPlugin = require('compression-webpack-plugin')
++
++  webpackConfig.plugins.push(
++    new CompressionWebpackPlugin({
++      asset: '[path].gz[query]',
++      algorithm: 'gzip',
++      test: new RegExp(
++        '\\.(' +
++        config.build.productionGzipExtensions.join('|') +
++        ')$'
++      ),
++      threshold: 10240,
++      minRatio: 0.8
++    })
++  )
++}
++
++if (config.build.bundleAnalyzerReport) {
++  const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin
++  webpackConfig.plugins.push(new BundleAnalyzerPlugin())
++}
++
++module.exports = webpackConfig
+Index: 陈伟/demo6/config/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/config/index.js	(date 1609660989367)
++++ 陈伟/demo6/config/index.js	(date 1609660989367)
+@@ -0,0 +1,73 @@
++'use strict'
++// Template version: 1.3.1
++// see http://vuejs-templates.github.io/webpack for documentation.
++
++const path = require('path')
++
++module.exports = {
++  dev: {
++
++    // Paths
++    assetsSubDirectory: 'static',
++    assetsPublicPath: '/',
++    proxyTable: {
++      '/api':{
++        target:'http://127.0.0.1:3000'
++      }
++    },
++
++    // Various Dev Server settings
++    host: 'localhost', // can be overwritten by process.env.HOST
++    port: 8080, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
++    autoOpenBrowser: false,
++    errorOverlay: true,
++    notifyOnErrors: true,
++    poll: false, // https://webpack.js.org/configuration/dev-server/#devserver-watchoptions-
++
++
++    /**
++     * Source Maps
++     */
++
++    // https://webpack.js.org/configuration/devtool/#development
++    devtool: 'cheap-module-eval-source-map',
++
++    // If you have problems debugging vue-files in devtools,
++    // set this to false - it *may* help
++    // https://vue-loader.vuejs.org/en/options.html#cachebusting
++    cacheBusting: true,
++
++    cssSourceMap: true
++  },
++
++  build: {
++    // Template for index.html
++    index: path.resolve(__dirname, '../dist/index.html'),
++
++    // Paths
++    assetsRoot: path.resolve(__dirname, '../dist'),
++    assetsSubDirectory: 'static',
++    assetsPublicPath: '/',
++
++    /**
++     * Source Maps
++     */
++
++    productionSourceMap: true,
++    // https://webpack.js.org/configuration/devtool/#production
++    devtool: '#source-map',
++
++    // Gzip off by default as many popular static hosts such as
++    // Surge or Netlify already gzip all static assets for you.
++    // Before setting to `true`, make sure to:
++    // npm install --save-dev compression-webpack-plugin
++    productionGzip: false,
++    productionGzipExtensions: ['js', 'css'],
++
++    // Run the build command with an extra argument to
++    // View the bundle analyzer report after build finishes:
++    // `npm run build --report`
++    // Set to `true` or `false` to always turn it on or off
++    bundleAnalyzerReport: process.env.npm_config_report
++  }
++}
+Index: 陈伟/demo6/config/dev.env.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/config/dev.env.js	(date 1609656284780)
++++ 陈伟/demo6/config/dev.env.js	(date 1609656284780)
+@@ -0,0 +1,7 @@
++'use strict'
++const merge = require('webpack-merge')
++const prodEnv = require('./prod.env')
++
++module.exports = merge(prodEnv, {
++  NODE_ENV: '"development"'
++})
+Index: 陈伟/demo6/config/prod.env.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/config/prod.env.js	(date 1609656284782)
++++ 陈伟/demo6/config/prod.env.js	(date 1609656284782)
+@@ -0,0 +1,4 @@
++'use strict'
++module.exports = {
++  NODE_ENV: '"production"'
++}
+Index: 陈伟/demo6/.babelrc
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/.babelrc	(date 1609656284364)
++++ 陈伟/demo6/.babelrc	(date 1609656284364)
+@@ -0,0 +1,12 @@
++{
++  "presets": [
++    ["env", {
++      "modules": false,
++      "targets": {
++        "browsers": ["> 1%", "last 2 versions", "not ie <= 8"]
++      }
++    }],
++    "stage-2"
++  ],
++  "plugins": ["transform-vue-jsx", "transform-runtime"]
++}
+Index: 陈伟/demo6/src/store/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/store/index.js	(date 1609809636961)
++++ 陈伟/demo6/src/store/index.js	(date 1609809636961)
+@@ -0,0 +1,20 @@
++import Vue from 'vue'
++import Vuex from 'vuex'
++
++Vue.use(Vuex)
++
++const store = new Vuex.Store({
++  state: {
++    // count: 0
++    orders:[]
++  },
++  mutations: {
++    // increment (state) {
++    //   state.count++
++    // }
++    addtocart:function(state,obj){
++        state.orders.push(obj)
++    }
++  }
++})
++export default store
+\ No newline at end of file
+Index: 陈伟/demo6/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/README.md	(date 1609656284781)
++++ 陈伟/demo6/README.md	(date 1609656284781)
+@@ -0,0 +1,21 @@
++# demo6
++
++> A Vue.js project
++
++## Build Setup
++
++``` bash
++# install dependencies
++npm install
++
++# serve with hot reload at localhost:8080
++npm run dev
++
++# build for production with minification
++npm run build
++
++# build for production and view the bundle analyzer report
++npm run build --report
++```
++
++For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Index: 陈伟/demo6/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/.gitignore	(date 1609656284781)
++++ 陈伟/demo6/.gitignore	(date 1609656284781)
+@@ -0,0 +1,14 @@
++.DS_Store
++node_modules/
++/dist/
++npm-debug.log*
++yarn-debug.log*
++yarn-error.log*
++
++# Editor directories and files
++.idea
++.vscode
++*.suo
++*.ntvs*
++*.njsproj
++*.sln
+Index: 陈伟/demo.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n  <head>\r\n    <meta charset=\"utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\r\n    <title>demo</title>\r\n  </head>\r\n  <body>\r\n    <div id=\"app\"></div>\r\n    <div>hello world</div>\r\n  </body>\r\n</html>\r\n
+===================================================================
+--- 陈伟/demo.html	(revision e58ef63ec08ee5e3fd33c3b30002b15f88d021e7)
++++ 陈伟/demo6/index.html	(date 1609656284781)
+@@ -3,10 +3,10 @@
+   <head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+-    <title>demo</title>
++    <title>demo6</title>
+   </head>
+   <body>
+     <div id="app"></div>
+-    <div>hello world</div>
++    <!-- built files will be auto injected -->
+   </body>
+ </html>
+Index: 陈伟/demo6/package.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/package.json	(date 1609809600040)
++++ 陈伟/demo6/package.json	(date 1609809600040)
+@@ -0,0 +1,67 @@
++{
++  "name": "demo6",
++  "version": "1.0.0",
++  "description": "A Vue.js project",
++  "author": "",
++  "private": true,
++  "scripts": {
++    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
++    "start": "npm run dev",
++    "build": "node build/build.js"
++  },
++  "dependencies": {
++    "axios": "^0.21.1",
++    "vant": "^2.12.2",
++    "vue": "^2.5.2",
++    "vue-router": "^3.0.1",
++    "vuex": "^3.6.0"
++  },
++  "devDependencies": {
++    "autoprefixer": "^7.1.2",
++    "babel-core": "^6.22.1",
++    "babel-helper-vue-jsx-merge-props": "^2.0.3",
++    "babel-loader": "^7.1.1",
++    "babel-plugin-syntax-jsx": "^6.18.0",
++    "babel-plugin-transform-runtime": "^6.22.0",
++    "babel-plugin-transform-vue-jsx": "^3.5.0",
++    "babel-preset-env": "^1.3.2",
++    "babel-preset-stage-2": "^6.22.0",
++    "chalk": "^2.0.1",
++    "copy-webpack-plugin": "^4.0.1",
++    "css-loader": "^0.28.0",
++    "extract-text-webpack-plugin": "^3.0.0",
++    "file-loader": "^1.1.4",
++    "friendly-errors-webpack-plugin": "^1.6.1",
++    "html-webpack-plugin": "^2.30.1",
++    "less": "^3.0.0",
++    "less-loader": "^4.0.1",
++    "node-notifier": "^5.1.2",
++    "optimize-css-assets-webpack-plugin": "^3.2.0",
++    "ora": "^1.2.0",
++    "portfinder": "^1.0.13",
++    "postcss-import": "^11.0.0",
++    "postcss-loader": "^2.0.8",
++    "postcss-url": "^7.2.1",
++    "rimraf": "^2.6.0",
++    "semver": "^5.3.0",
++    "shelljs": "^0.7.6",
++    "uglifyjs-webpack-plugin": "^1.1.1",
++    "url-loader": "^0.5.8",
++    "vue-loader": "^13.3.0",
++    "vue-style-loader": "^3.0.1",
++    "vue-template-compiler": "^2.5.2",
++    "webpack": "^3.6.0",
++    "webpack-bundle-analyzer": "^2.9.0",
++    "webpack-dev-server": "^2.9.1",
++    "webpack-merge": "^4.1.0"
++  },
++  "engines": {
++    "node": ">= 6.0.0",
++    "npm": ">= 3.0.0"
++  },
++  "browserslist": [
++    "> 1%",
++    "last 2 versions",
++    "not ie <= 8"
++  ]
++}
+Index: 陈伟/demo6/.editorconfig
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/.editorconfig	(date 1609656284781)
++++ 陈伟/demo6/.editorconfig	(date 1609656284781)
+@@ -0,0 +1,9 @@
++root = true
++
++[*]
++charset = utf-8
++indent_style = space
++indent_size = 2
++end_of_line = lf
++insert_final_newline = true
++trim_trailing_whitespace = true
+Index: 陈伟/demo6/.postcssrc.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/.postcssrc.js	(date 1609656284781)
++++ 陈伟/demo6/.postcssrc.js	(date 1609656284781)
+@@ -0,0 +1,10 @@
++// https://github.com/michael-ciniawsky/postcss-load-config
++
++module.exports = {
++  "plugins": {
++    "postcss-import": {},
++    "postcss-url": {},
++    // to edit target browsers: use "browserslist" field in package.json
++    "autoprefixer": {}
++  }
++}
+Index: 陈伟/demo6/src/router/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/router/index.js	(date 1609755128366)
++++ 陈伟/demo6/src/router/index.js	(date 1609755128366)
+@@ -0,0 +1,32 @@
++import Vue from 'vue'
++import Router from 'vue-router'
++import HelloWorld from '@/components/HelloWorld'
++import products from '@/components/products'
++import payment from '@/components/payment'
++import book from '@/components/book'
++Vue.use(Router)
++
++export default new Router({
++  routes: [
++    {
++      path: '/',
++      name: 'HelloWorld',
++      component: HelloWorld
++    },
++    {
++      path: '/payment',
++      name: 'payment',
++      component: payment
++    },
++    {
++      path: '/products',
++      name: 'products',
++      component: products
++    },
++    {
++      path: '/book',
++      name: 'book',
++      component: book
++    },
++  ]
++})
+Index: 陈伟/demo6/src/App.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/App.vue	(date 1609672019684)
++++ 陈伟/demo6/src/App.vue	(date 1609672019684)
+@@ -0,0 +1,30 @@
++<template>
++  <div id="app">
++    <!-- <img src="./assets/logo.png"> -->
++    <router-view/>
++  </div>
++</template>
++
++<script>
++export default {
++  name: 'App'
++}
++</script>
++
++<style>
++/* #app {
++  font-family: 'Avenir', Helvetica, Arial, sans-serif;
++  -webkit-font-smoothing: antialiased;
++  -moz-osx-font-smoothing: grayscale;
++  text-align: center;
++  color: #2c3e50;
++  margin-top: 60px;
++} */
++* {
++  margin: 0vw;
++  padding: 0vw;
++}
++.body{
++  background-color: #f5f7f8;
++}
++</style>
+Index: 陈伟/demo6/src/main.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/main.js	(date 1609809683221)
++++ 陈伟/demo6/src/main.js	(date 1609809683221)
+@@ -0,0 +1,23 @@
++// The Vue build version to load with the `import` command
++// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
++import Vue from 'vue'
++import App from './App'
++import router from './router'
++// import axios from 'axios'
++import store from './store'
++Vue.prototype.$axios=axios;
++import Vant from 'vant';
++import 'vant/lib/index.css';
++import axios from './axios_instance'
++Vue.use(Vant);
++Vue.config.productionTip = false
++
++/* eslint-disable no-new */
++const vue_instance =  new Vue({
++  el: '#app',
++  router,
++  store,
++  components: { App },
++  template: '<App/>'
++})
++export default vue_instance
+Index: 陈伟/demo6/src/components/book.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/components/book.vue	(date 1609810588346)
++++ 陈伟/demo6/src/components/book.vue	(date 1609810588346)
+@@ -0,0 +1,37 @@
++<template>
++<div class="book">
++  <!-- {{selfinfo}} -->
++  <!-- @click="dosome" -->
++  <img  @click="jumpto" class="bookicon" :src="selfinfo.imgUrl">
++</div>
++
++</template>
++
++<script>
++export default {
++props:["selfinfo"],
++methods: {
++  // dosome(){
++  //   this.$emit("fix");
++  // }
++ jumpto:function(){
++            this.$router.push({name:'products',query:this.selfinfo})
++        }
++
++},
++}
++</script>
++
++<style lang='less' scoped>
++
++ .book {
++        border: 1px solid black;
++        width: 26.9542vw;
++        height: 38.0054vw;
++        margin-bottom: 10.2426vw;
++        .bookicon {
++          width: 100%;
++          height: 100%;
++        }
++      }
++</style>
+Index: 陈伟/demo6/src/components/home.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/components/home.vue	(date 1609749041557)
++++ 陈伟/demo6/src/components/home.vue	(date 1609749041557)
+@@ -0,0 +1,13 @@
++<template>
++  <div>home</div>
++</template>
++
++<script>
++export default {
++
++}
++</script>
++
++<style>
++
++</style>
+Index: 陈伟/demo6/src/components/payment.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/components/payment.vue	(date 1609844562862)
++++ 陈伟/demo6/src/components/payment.vue	(date 1609844562862)
+@@ -0,0 +1,163 @@
++<template>
++  <div class="bigbox">
++    <div class="head">
++      <div class="icon" @click="$router.back()">
++        <a href="#"
++          ><img class="pic" src="../assets/ionic-ios-arrow-back.png"
++        /></a>
++      </div>
++      <div class="headtit"><span class="word">Payment</span></div>
++      <div class="icon">
++        <a href="#"><img class="pic1" src="@/assets/Path 5.png" /></a>
++      </div>
++    </div>
++    <div class="content">
++      <div>
++        <div class="unit" v-for="(item, index) in storeorders" :key="index">
++          <div>{{ item.bookName }}</div>
++          <div>{{ item.count }}</div>
++        </div>
++      </div>
++    </div>
++    <div class="content2">
++      <div class="bi"><span>Billing Information</span></div>
++      <div class="buyn"><div>Buy new</div><div></div>　<hr size="1px" width="80%" noshade=true /></div>
++      <div class="ship">
++        <div>Shipping</div>
++        <div>+S3.00</div>
++        　<hr size="1px" width="80%" noshade=true />
++      </div>
++      <div class="text">Only 6 left in stock (more on the way).</div>
++      <div class="text">This item ships to 18 Wall St, Us</div>
++      <div class="text">Get it by Thursday,April 16 - Friday,April 24</div>
++      <div class="text">Choose this date at checkout</div>
++    </div>
++    <div class="footer">
++      <div>
++        <button class="btnbuy"><span>Buy Now</span></button>
++      </div>
++    </div>
++  </div>
++</template>
++
++<script>
++export default {
++  computed: {
++    storeorders: function () {
++      return this.$store.state.orders;
++    },
++  },
++};
++</script>
++
++<style lang='less' scoped>
++* {
++  margin: 0vw;
++  padding: 0vw;
++}
++.bigbox {
++  .head {
++    position: fixed;
++    top: 0;
++    box-sizing: border-box;
++    width: 100vw;
++    padding-left: 6.469vw;
++    padding-right: 6.469vw;
++    height: 12.6685vw;
++    display: flex;
++    justify-content: space-between;
++    align-items: center;
++    background-color: white;
++    margin-bottom: 2.6954vw;
++    .pic {
++      width: 2.965vw;
++    }
++    .pic1 {
++      width: 5.3908vw;
++    }
++    .word {
++      font-size: 4.3127vw;
++      color: #000000;
++      font-weight: bold;
++      font-family: "Open Sans";
++      position: relative;
++      top: -1.0782vw;
++    }
++  }
++  .content {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    padding-bottom: 8.0863vw;
++    .unit {
++      border: 1px solid red;
++      padding: 20px;
++    }
++  }
++  .content2 {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    margin-left: 6.4vw;
++    background-color: white;
++    padding-bottom: 8.0863vw;
++    display: flex;
++    flex-direction: column;
++    .bi {
++      font-size: 3.7333vw;
++      color: #000000;
++      font-weight: bold;
++      font-family: "Open Sans";
++      margin-bottom: 26px;
++    }
++    .buyn{
++      font-size: 3.7333vw;
++      color: #7f7f7f;
++      font-weight: bold;
++      font-family: "Open Sans";
++       margin-bottom: 26px;
++    }
++    .ship{
++      font-size: 3.7333vw;
++      color: #7f7f7f;
++      font-weight: bold;
++      font-family: "Open Sans";
++       margin-bottom: 26px;
++    }
++    .text {
++      font-size: 3.7333vw;
++      color: #7f7f7f;
++      font-weight: bold;
++      font-family: "Open Sans";
++    }
++  }
++  .footer {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    position: fixed;
++    bottom: 0;
++    display: flex;
++    align-items: center;
++    justify-content: center;
++    padding-left: 10.7817vw;
++    padding-right: 10.7817vw;
++    box-sizing: border-box;
++    width: 100vw;
++    height: 13.2075vw;
++    border: 1px solid black;
++
++    .btnbuy {
++      width: 49.6vw;
++      height: 9.8667vw;
++      border-radius: 5.0667vw;
++      background-color: #060aff;
++      span {
++        font-size: 4.2667vw;
++        color: #ffffff;
++        font-weight: bold;
++        font-family: "Open Sans";
++      }
++    }
++  }
++}
++</style>
+Index: 陈伟/demo6/src/components/products.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/components/products.vue	(date 1609815268384)
++++ 陈伟/demo6/src/components/products.vue	(date 1609815268384)
+@@ -0,0 +1,494 @@
++<template>
++  <div class="bigbox">
++    <div class="head">
++      <div class="icon" @click="jumpto">
++        <a href="#"
++          ><img class="pic" src="../assets/ionic-ios-arrow-back.png"
++        /></a>
++      </div>
++      <div class="headtit"><span class="word">Products</span></div>
++      <div class="icon">
++        <a href="#"><img class="pic1" src="@/assets/Path 5.png" /></a>
++      </div>
++    </div>
++    <div class="content">
++      <div class="part1">
++        <div class="word">{{ selfinfo.bookName }}</div>
++        <div class="container"><span>New York Times Bestseller</span></div>
++      </div>
++      <div class="price">
++        <div>${{ selfinfo.price }}</div>
++      </div>
++      <div class="part2">
++        <div class="carouselbox">
++          <div class="innerbox">
++            <!-- <van-swipe :autoplay="3000">
++            <van-swipe-item v-for="(item, index) in arr" :key="index">
++              <img class="bookicon" :src="item.imgUrl" />
++            </van-swipe-item>
++          </van-swipe> -->
++            <van-swipe
++              class="my-swipe"
++              :autoplay="3000"
++              indicator-color="white"
++            >
++              <van-swipe-item
++                ><img class="pic" :src="selfinfo.imgUrl" alt="" srcset=""
++              /></van-swipe-item>
++              <van-swipe-item
++                ><img class="pic" :src="selfinfo.imgUrl" alt="" srcset=""
++              /></van-swipe-item>
++              <van-swipe-item
++                ><img class="pic" :src="selfinfo.imgUrl" alt="" srcset=""
++              /></van-swipe-item>
++            </van-swipe>
++          </div>
++          <div class="icon">
++            <img
++              class="pic"
++              src="../assets/feather-heart.png"
++              alt=""
++              srcset=""
++            />
++          </div>
++        </div>
++      </div>
++
++      <div class="otherinfo">
++        <div class="smallbox">
++          <div class="word">Formats and editions</div>
++          <div class="business">
++            <div
++              class="anot"
++              v-for="(item, index) in selfinfo.otherPrice"
++              :key="index"
++            >
++              <div class="item">
++                <div class="gt left">{{ item.platform }}</div>
++                <div class="gt">{{ item.price }}</div>
++              </div>
++            </div>
++          </div>
++        </div>
++        <div class="smallbox">
++          <div class="word">Quantity</div>
++          <div class="quantity">
++            <!-- <button @click="des">-</button>
++            <span>{{ count }}</span>
++            <button @click="add">+</button> -->
++            <div class="count">
++              <div @click="des">-</div>
++              <span>{{ count }}</span>
++              <div @click="add">+</div>
++            </div>
++          </div>
++        </div>
++      </div>
++    </div>
++    <!--
++    <div class="content2">
++      <div class="formats">
++        <div class="tit"><span>Formats and editions</span></div>
++        <div class="box">
++          <div>
++            <div class="Kindle">
++              <div>Kindle</div>
++
++              <div>$8.03</div>
++            </div>
++          </div>
++
++          <div>
++            <div class="Hardcover">
++              <div>Hardcover</div>
++
++              <div>$14.29</div>
++            </div>
++          </div>
++
++          <div>
++            <div class="Paperpack">
++              <div>Paperpack</div>
++            </div>
++          </div>
++        </div>
++      </div>
++      <div class="quantity">
++        <div class="tit"><span>Quantity</span></div>
++        <div>
++          <div class="count">
++            <div>-</div>
++            <span>1</span>
++            <div>+</div>
++          </div>
++        </div>
++      </div>
++    </div> -->
++    <div class="des">
++      <div>New York Times Bestseller</div>
++      <div>Winner of the 2019 Goodreads Choice Award for</div>
++      <div>Science & Technology</div>
++    </div>
++    <div class="footer">
++      <div>
++        <button class="btn1" @click="addtoca"><span>Add to cart</span></button>
++      </div>
++      <div>
++        <button class="btn2" @click="jumpt"><span>Buy Now</span></button>
++      </div>
++    </div>
++  </div>
++</template>
++
++<script>
++import payment from "./payment";
++export default {
++  data() {
++    return {
++      selfinfo: this.$route.query,
++      count: 1,
++    };
++  },
++  methods: {
++    jumpto() {
++      this.$router.push({ name: "HelloWorld" });
++    },
++    add() {
++      this.count++;
++    },
++    des() {
++      this.count--;
++    },
++    addtoca() {
++      var obj = { ...this.selfinfo, count: this.count };
++      this.$store.commit("addtocart", obj);
++    },
++    jumpt() {
++      this.$router.push({ name: "payment" });
++    },
++  },
++  computed: {
++    storeorders: function () {
++      return this.$store.state.orders;
++    },
++  },
++
++  // beforeMount() {
++  //   this.$axios({
++  //     url: "/api/books",
++  //     method: "get",
++  //     data: {},
++  //   }).then((res) => {
++  //     console.log("res", res);
++  //     this.arr = res.data.info;
++  //   });
++  // },
++};
++</script>
++
++<style lang='less'>
++.my-swipe .van-swipe-item {
++  color: #fff;
++  font-size: 20px;
++  line-height: 150px;
++  text-align: center;
++  // background-color: #39a9ed;
++}
++.van-swipe-item {
++  height: 68.2667vw;
++}
++.van-swipe__indicators {
++  bottom: 0;
++}
++.van-swipe__indicator {
++  display: inline-block;
++  width: 8.8vw;
++  border-radius: 0;
++  height: 2px;
++  background-color: rgb(163, 162, 162);
++  &.van-swipe__indicator--active {
++    background-color: black;
++  }
++}
++</style>
++<style lang='less' scoped>
++* {
++  margin: 0vw;
++  padding: 0vw;
++}
++.bigbox {
++  .head {
++    position: fixed;
++    top: 0;
++    box-sizing: border-box;
++    width: 100vw;
++    padding-left: 6.469vw;
++    padding-right: 6.469vw;
++    height: 12.6685vw;
++    display: flex;
++    justify-content: space-between;
++    align-items: center;
++    background-color: white;
++    margin-bottom: 2.6954vw;
++    .pic {
++      width: 2.965vw;
++    }
++    .pic1 {
++      width: 5.3908vw;
++    }
++    .word {
++      font-size: 4.3127vw;
++      color: #000000;
++      font-weight: bold;
++      font-family: "Open Sans";
++      position: relative;
++      top: -1.0782vw;
++    }
++  }
++  .content {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    padding-bottom: 8.0863vw;
++    .part1 {
++      padding-left: 6.7385vw;
++      padding-right: 6.469vw;
++      display: flex;
++      justify-content: space-between;
++      align-items: center;
++      margin-bottom: 24px;
++      .word {
++        font-size: 3.4667vw;
++        color: #000000;
++        font-family: "Open Sans";
++      }
++      .container {
++        border: 1px solid #b1b1b1;
++        display: flex;
++        justify-content: center;
++        align-items: center;
++        width: 46.6667vw;
++        height: 6.9333vw;
++        border-radius: 1.0667vw;
++        background-color: #000000;
++        span {
++          font-size: 3.4667vw;
++          color: #ffffff;
++          font-weight: bold;
++          font-family: "Open Sans";
++          text-align: center;
++        }
++      }
++    }
++    .part2 {
++      .carouselbox {
++        position: relative;
++        //   border:1px solid red;
++        .innerbox {
++          //   height:60.5333vw;
++          padding-bottom: 12vw;
++          border-bottom: 1px solid #e3e3e3;
++          .pic {
++            height: 60.5333vw;
++          }
++        }
++        .icon {
++          position: absolute;
++          right: 4.8vw;
++          bottom: 12vw;
++        }
++      }
++    }
++    .otherinfo {
++      padding-top: 4vw;
++      .smallbox {
++        padding-bottom: 5.0667vw;
++        .quantity {
++          .tit {
++            font-size: 3.7333vw;
++            color: #000000;
++            font-weight: bold;
++            font-family: "Open Sans";
++          }
++          .count {
++            margin-top: 4vw;
++            display: flex;
++            align-items: center;
++            justify-content: space-between;
++            padding-left: 3.2vw;
++            padding-right: 3.2vw;
++            width: 31.2vw;
++            height: 8.8vw;
++            border-radius: 4.5333vw;
++            background-color: #ffffff;
++            border: 0.4vw solid #c4c4c4;
++            span {
++              font-size: 3.7333vw;
++              color: #000000;
++              font-weight: bold;
++              font-family: "Open Sans";
++            }
++            div {
++              font-size: 8vw;
++            }
++          }
++        }
++      }
++      .word {
++        font-size: 14px;
++        color: #000000;
++        font-weight: bold;
++        font-family: "Open Sans";
++        margin-bottom: 4.5333vw;
++      }
++      .business {
++        //   display:flex;
++        white-space: nowrap;
++        // overflow: hidden;
++        overflow-x: scroll;
++        .anot {
++          display: inline-block;
++          margin-right: 2.1333vw;
++        }
++        .item {
++          border: 1.5px solid #c4c4c4;
++          border-radius: 4.5333vw;
++          padding: 2.4vw 2.6667vw;
++          display: flex;
++          justify-content: space-between;
++          align-items: center;
++          .gt {
++            &.left {
++              margin-right: 5.3333vw;
++            }
++          }
++        }
++      }
++    }
++
++    .price div {
++      font-size: 4.8vw;
++      color: #000000;
++      font-weight: bold;
++      font-family: "Open Sans";
++      margin-left: 6.4vw;
++    }
++  }
++
++  .content2 {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    padding-bottom: 8.0863vw;
++    .formats {
++      .tit {
++        font-size: 3.7333vw;
++        color: #000000;
++        font-weight: bold;
++        font-family: "Open Sans";
++      }
++    }
++    .box {
++      margin-top: 4vw;
++      margin-bottom: 4vw;
++      display: flex;
++      padding-left: 3.4vw;
++      padding-right: 3.4vw;
++      justify-content: space-between;
++      align-items: center;
++      .Kindle {
++        display: flex;
++        text-align: center;
++        align-items: center;
++        justify-content: space-around;
++        width: 31.2vw;
++        height: 8.8vw;
++        border-radius: 4.5333vw;
++        background-color: #ffffff;
++        border: 0.4vw solid #c4c4c4;
++      }
++      .Hardcover {
++        display: flex;
++        text-align: center;
++        align-items: center;
++        justify-content: space-around;
++        width: 40.5333vw;
++        height: 8.8vw;
++        margin: 1.0667vw;
++        border-radius: 4.5333vw;
++        background-color: #ffffff;
++        border: 0.4vw solid #060aff;
++      }
++      .Paperpack {
++        display: flex;
++        text-align: center;
++        align-items: center;
++        justify-content: space-around;
++        width: 40.5333vw;
++        height: 8.8vw;
++        border-radius: 4.5333vw;
++        background-color: #ffffff;
++        border: 0.4vw solid #c4c4c4;
++      }
++    }
++  }
++  .des {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    // position: fixed;
++    // bottom: 16vw;
++    display: flex;
++    flex-direction: column;
++    padding-left: 8.8vw;
++    padding-right: 5.8vw;
++    box-sizing: border-box;
++    width: 102.2vw;
++    height: 16vw;
++    font-size: 3.4667vw;
++    color: #000000;
++    font-weight: bold;
++    font-family: "Open Sans";
++  }
++  .footer {
++    margin-top: 14.6685vw;
++    padding-top: 4.5822vw;
++    background-color: white;
++    // position: fixed;
++    // bottom: 0;
++    display: flex;
++    align-items: center;
++    justify-content: space-between;
++    padding-left: 8.8vw;
++    padding-right: 5.8vw;
++    box-sizing: border-box;
++    width: 100vw;
++    height: 13.2075vw;
++    border: 0.2667vw solid #ccc;
++    .btn1 {
++      width: 28vw;
++      height: 9.8667vw;
++      border-radius: 5.0667vw;
++      background-color: #efeded;
++      span {
++        font-size: 3.7333vw;
++        color: #818181;
++        font-weight: bold;
++        font-family: "Open Sans";
++      }
++    }
++    .btn2 {
++      width: 49.6vw;
++      height: 9.8667vw;
++      border-radius: 5.0667vw;
++      background-color: #060aff;
++      span {
++        font-size: 16px;
++        color: #ffffff;
++        font-weight: bold;
++        font-family: "Open Sans";
++      }
++    }
++  }
++}
++</style>
+Index: 陈伟/demo6/src/components/HelloWorld.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/components/HelloWorld.vue	(date 1609810458414)
++++ 陈伟/demo6/src/components/HelloWorld.vue	(date 1609810458414)
+@@ -0,0 +1,211 @@
++<template>
++  <div class="bigbox">
++    <div class="head">
++      <div class="icon">
++        <a href="#"
++          ><img class="pic" src="../assets/ionic-ios-arrow-back.png"
++        /></a>
++      </div>
++      <div class="headtit"><span class="word">My Cart</span></div>
++      <div class="icon">
++        <a href="#"><img class="pic1" src="@/assets/Path 5.png" /></a>
++      </div>
++    </div>
++
++    <div class="body">
++      <div class="liked">
++        <div class="likedtext"><span>Books you Liked</span></div>
++        <div>
++          <div class="filter">
++            <img src="../assets/Icon feather-filter.png" />
++            <span>Filter</span>
++            <img src="../assets/Icon ionic-ios-arrow-back.png" />
++          </div>
++        </div>
++      </div>
++      <div>
++        <!-- <goods
++          :info="arr"
++          :uitem="item"
++          v-for="(item, index) in arr"
++          :key="item.index"
++        ></goods> -->
++        <div class="part2">
++          <!-- <div class="book" v-for="(item,index) in arr"  :key="item.index"><img class="bookicon" :src="item.imgUrl" alt="" srcset=""></div>
++        </div> -->
++<!-- @fix="jumpto(item)" -->
++          <book
++
++            v-for="(item, index) in arr"
++            :key="item.index"
++            :selfinfo="item"
++          ></book>
++        </div>
++      </div>
++    </div>
++    <div class="footer">
++      <div>
++        <a href="#"
++          ><img class="pic" src="../assets/Icon material-home.png"
++        /></a>
++      </div>
++      <div>
++        <a href="#"><img class="pic" src="../assets/Path 1.png" /></a>
++      </div>
++      <div>
++        <a href="#"><img class="pic" src="../assets/feather-heart.png" /></a>
++      </div>
++      <div>
++        <a href="#"
++          ><img class="pic" src="../assets/Icon material-account-box.png"
++        /></a>
++      </div>
++    </div>
++  </div>
++</template>
++
++<script>
++import book from "./book";
++import payment from "./payment";
++import products from "./products";
++export default {
++  name: "HelloWorld",
++  data() {
++    return {
++      msg: "Welcome to Your Vue.js App",
++      arr: [],
++    };
++  },
++  methods: {
++    // jumpto(item) {
++    //   this.$router.push({ name: "products", query: item });
++    // },
++  },
++  beforeMount() {
++    this.$axios({
++      url: "/api/books",
++      method: "get",
++      data: {},
++    }).then((res) => {
++      console.log("res", res);
++      this.arr = res.data.info;
++    });
++  },
++  components: {
++    payment: payment,
++    products: products,
++    book: book,
++  },
++};
++</script>
++
++<!-- Add "scoped" attribute to limit CSS to this component only -->
++<style lang='less' scoped>
++/* h1, h2 {
++  font-weight: normal;
++}
++ul {
++  list-style-type: none;
++  padding: 0;
++}
++li {
++  display: inline-block;
++  margin: 0 10px;
++}
++a {
++  color: #42b983;
++} */
++* {
++  margin: 0vw;
++  padding: 0vw;
++}
++.bigbox {
++  .head {
++    display: flex;
++    position: fixed;
++    width: 100vw;
++    height: 12.5333vw;
++    padding-left: 6.4vw;
++    padding-right: 6.4vw;
++    margin-bottom: 3.6667vw;
++    top: 0;
++    box-sizing: border-box;
++    background-color: #ffffff;
++    justify-content: space-between;
++    align-items: center;
++    .pic {
++      width: 2.9333vw;
++    }
++    .pic1 {
++      width: 5.3333vw;
++    }
++    .word {
++      font-size: 4.3127vw;
++      color: #000000;
++      font-weight: bold;
++      font-family: "Open Sans";
++      position: relative;
++      top: -1.0782vw;
++    }
++  }
++  .liked {
++    display: flex;
++    justify-content: space-between;
++    box-sizing: border-box;
++    margin: 4.2667vw;
++    padding-left: 6.4vw;
++    padding-right: 6.4vw;
++    width: 100vw;
++    align-items: center;
++    margin-bottom: 7.2vw;
++  }
++  .likedtext {
++    font-size: 3.7333vw;
++    color: #000000;
++    font-weight: bold;
++    font-family: "Open Sans";
++  }
++  .filter {
++    border: 1px solid #ccc;
++  }
++  .filter span {
++    padding: 1.3333vw;
++  }
++  .body {
++    background-color: #ffffff;
++    .part2 {
++      // border:1px solid red;
++      padding-left: 15.0943vw;
++      padding-right: 15.0943vw;
++      display: flex;
++      justify-content: space-between;
++      flex-wrap: wrap;
++
++    }
++  }
++  .book {
++    width: 100px;
++    height: 141px;
++
++    display: flex;
++    flex-wrap: wrap;
++    justify-content: space-between;
++
++    margin-bottom: 38px;
++  }
++  .footer {
++    position: fixed;
++    bottom: 0;
++    // width: 100vw;
++    display: flex;
++    align-items: center;
++    justify-content: space-between;
++    padding-left: 10.6667vw;
++    padding-right: 10.6667vw;
++    box-sizing: border-box;
++    width: 100vw;
++    height: 13.3333vw;
++    border: 1px solid #ccc;
++  }
++}
++</style>
+Index: 陈伟/demo6/src/axios_instance.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 陈伟/demo6/src/axios_instance.js	(date 1609748931019)
++++ 陈伟/demo6/src/axios_instance.js	(date 1609748931019)
+@@ -0,0 +1,28 @@
++import axios from 'axios';
++import {Toast} from 'vant'
++import vue_instance from './main'
++// 添加响应拦截器
++axios.interceptors.response.use(function (response) {
++    // 对响应数据做点什么
++    console.log('响应拦截',response);
++    if(response.status===500){
++    // alert('网络异常')
++    Toast({
++        message:'网络异常'
++    })
++    this.$router.push({name:'HelloWorld'})
++
++    }else if(response.status===200){
++        // alert('请求正常')
++        Toast({
++            message:'请求正常'
++        })
++    }
++    //{'name':'jack'};
++    return  response
++  }, function (error) {
++    // 对响应错误做点什么
++    return Promise.reject(error);
++  });
++  axios.timeout=1000;
++  export default axios;
